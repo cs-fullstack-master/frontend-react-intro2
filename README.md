@@ -1,8 +1,4 @@
 # frontend-react-intro2
 
-### Exercise 3:
-
-Create a new create-react-app program. Create a new BankAccount component. Pass it an array of 3 collections of firstNames and lastNames. In the child component
-
 ### Exercise 4
-Create an array of collections and pass it to a child component. In the child component, map a function to each item.
+Create a new component called Netflix from App.js. In Netflix create an array of collections for movies. Include movieName, yearReleased, and genre for three collections. Pass that array of collections to a child component, DisplayMovies. In DisplayMovies, return each element's key in any way you like.
